@@ -6,7 +6,6 @@ The Alarm App is a well-crafted iOS application built using SwiftUI and SwiftDat
 
 ## Technologies Used
 - **SwiftUI**: Used to build the user interface, ensuring a declarative and responsive design for the alarm app.
-- **SwiftData**: Utilized for local data storage, enabling the app to manage user preferences and alarm data efficiently.
 - **Swift Concurrency (async/await)**: Implemented for asynchronous data fetching from the backend and handling alarm scheduling without blocking the main thread.
 - **Backend API**: A mock or real API endpoint is used to fetch the alarm list, with alarms marked as "saved" visually when fetched.
 
